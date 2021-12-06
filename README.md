@@ -1,5 +1,5 @@
 # Trabajo Final del Primer Bimestre
-
+Realizado por Abraham Ayala y Mateo Burneo
 ## Actividades
 
 * Por cada problemáticas realizar las siguientes actividades
